@@ -4,7 +4,7 @@ A replica of Black Berry keyboard phone in the browser, made with React.
 ## Put it on GitHub Pages
 1. Upload `index.html` and `app.jsx` to the root of a GitHub repo.
 2. Settings > Pages > Deploy from a branch > `main` / `(root)` > Save.
-3. Open `https://<your-username>.github.io/<repo-name>/`
+3. Open <a href="https://fatima-d09.github.io/BlackBerry-Replica/">https://fatima-d09.github.io/BlackBerry-Replica/</a>
 
 ## Run it on your computer
 Double-clicking `index.html` won't work because the browser blocks loading `app.jsx` from a file.
